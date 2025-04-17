@@ -26,9 +26,9 @@ app: Flask = Flask(__name__)
 playfabCache: dict = {}
 muteCache: dict = {}
 
-titleider = "3D79E"
-secretkey = "3STYKOYEOWNQY1HOGUBW7J8B8UOUMPE5IHW17UKA8SX59Q5734"
-settings.ApiKey = "OC|6927367620722893|b044e4705327f1b69f846d230a371d70"
+titleider = "144AD4"
+secretkey = "XG6XFMZF4B6D4TPZYKFFO1P9OZSRCAONUIHG35WNBYF7Y8OHQ4"
+settings.ApiKey = "OC|9549231415165859|97d7efca6a3d5ce8da5b0ee7f31b92ec"
 
 
 def ReturnFunctionJson(data, funcname, funcparam={}):
